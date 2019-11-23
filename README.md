@@ -1,4 +1,3 @@
-# galan
 ## Privacy Policy
 Galan built the Galan app as a Commercial app. This SERVICE is provided by Galan and is intended for use as is.
 
